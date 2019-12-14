@@ -11,5 +11,5 @@ API_SOAP_addrverify2
 - Visual output to compare potential ZIP codes given address information.
 
 google_geocode
-- Requests from Google API
-- Returns coordinates in decimal degrees
+- Requests from Google API.
+- Returns coordinates in decimal degrees.
