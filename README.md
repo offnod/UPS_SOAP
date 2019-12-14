@@ -5,6 +5,7 @@ API_SOAP
 - Requests from UPS API using T-SQL.
 - Passes SOAP request to spHTTPRequest which is a stored procedure that uses the sp_OAmethod. Well documented elsewhere.
 - Meant for tracking both shipping and return numbers.
+- Integrated with shipment_tracking and inventory tables for automated email notifications.
 
 API_SOAP_addrverify2
 - Requests from UPS API using T-SQL.
