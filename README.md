@@ -13,4 +13,4 @@ API_SOAP_addrverify2
 
 google_geocode
 - Requests from Google API using R.
-- Returns coordinates in decimal degrees.
+- Transforms results into two columns of coordinates in decimal degrees.
